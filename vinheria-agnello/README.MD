@@ -1,3 +1,20 @@
+Vinheria Agnello
+
+Site desenvolvido para a Vinheria Agnello, criando um ecommerce para vender produtos de alta qualidade.
+
+index.html:
+Arquivo principal do site, onde fica a navegação para as demais páginas e visualização do conteúdo principal, funcionando como uma página inicial.
+
+Integrantes:
+
+- Lucas Villani
+- Hugo Copatti
+- Matheus Victorio
+- Enzo Dourado
+- Vinícius Lugli
+
+Link para o site:
+
 - [ ] 5 arquivos HTML criados
 - [x] index.html com navegação para as demais páginas
 - [x] Heading tags e parágrafos aplicados
