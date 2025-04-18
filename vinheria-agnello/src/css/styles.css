@@ -186,3 +186,28 @@
   font-family: Arial, sans-serif;
 }
 
+/* css do sobre */
+
+.resumo {
+  margin: 0;
+  width: 1000px;
+  height: 100%;
+  background-color: #fff;
+  padding: 30px;
+  border-radius: 10px;
+
+}
+#titulo-resumo-1{
+  color: #41232a;
+  text-align: center;
+}
+
+.titulo-resumo-2 {
+  color: #41232a;
+  text-align: center;
+}
+
+.paragrafos {
+  text-align: justify;
+  padding: 30px;
+}
