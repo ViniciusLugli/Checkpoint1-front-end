@@ -5,6 +5,9 @@ Site desenvolvido para a Vinheria Agnello, criando um ecommerce para vender prod
 index.html:
 Arquivo principal do site, onde fica a navegação para as demais páginas e visualização do conteúdo principal, funcionando como uma página inicial.
 
+contato.html:
+Página responsável por exibir o formulário de contato da Vinheria Agnello. Permite que os usuários preencham seus dados e enviem mensagens. Contém também uma imagem ilustrativa e mantém a padronização visual com o restante do site.
+
 Integrantes:
 
 - Lucas Villani
