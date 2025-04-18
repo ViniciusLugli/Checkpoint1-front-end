@@ -20,7 +20,7 @@ Link para o site:
 - [x] Heading tags e parágrafos aplicados
 - [ ] Lista (ul ou ol) usada em pelo menos uma página
 - [ ] Tabela HTML com conteúdo relevante
-- [ ] Formulário com input, textarea e botão
+- [x] Formulário com input, textarea e botão
 - [x] Tags semânticas aplicadas corretamente
 - [ ] Meta tags (`keywords`, `description`) em cada página
 - [x] Estilos com CSS usando classes e ids
