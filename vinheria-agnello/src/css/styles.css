@@ -96,3 +96,92 @@
   font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
   color: #ffffff;
 }
+
+/* css do contato.html*/
+.titulo-contato {
+  font-size: 2.5rem;
+  font-weight: bold;
+  text-align: center;
+  margin: 2rem 0 1rem;
+  color: white;
+  font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+}
+
+.form-image {
+  text-align: center;
+  margin-top: 20px;
+}
+
+.contact-section {
+  width: 100%;
+  margin-top: 120px;
+  text-align: center;
+}
+
+.contact-form,
+.imagem-contato {
+  display: inline-block;
+  vertical-align: top;
+  width: 45%;
+  box-sizing: border-box;
+  margin: 10px;
+  height: 400px;
+}
+
+.contact-form label {
+  font-size: 2rem;
+  color: #000000;
+  display: block;
+  margin-top: 1rem;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+  padding: 1rem;
+  font-size: 1.6rem;
+  border-radius: 8px;
+  border: none;
+  background-color: #f2f2f2;
+  margin-top: 0.5rem;
+  margin-bottom: 1.5rem;
+  display: block;
+}
+
+.contact-form button {
+  background-color: #41232a;
+  color: #ffffff;
+  border: none;
+  padding: 1.2rem 2rem;
+  font-size: 2rem;
+  border-radius: 12px;
+  cursor: pointer;
+  margin-top: 1rem;
+}
+
+.contact-form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 25px;
+  text-align: left;
+  height: auto;
+}
+
+.imagem-contato {
+  max-width: 100%;
+  height: auto;
+  border-radius: 25px;
+}
+
+.footer {
+  background-color: #41232a;
+  padding: 2rem;
+  text-align: center;
+  margin-top: 4rem;
+}
+
+.footer-text {
+  color: #ffffff;
+  font-size: 1.6rem;
+  font-family: Arial, sans-serif;
+}
