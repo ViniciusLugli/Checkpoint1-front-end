@@ -12,7 +12,7 @@ marketplace.html:
 Página responsável pela venda efetiva dos vinhos, onde o usuário pode achar os vinhos perfeitos para sua situação. Página segue o mesmo padrão que as outras em questão de layout, porém contém mais conteúdo que as demais.
 
 MapaUva.html:
-Página responsável por informar o usuário sobre as uvas que fazem seu vinho. Segue o mesmo padrão de layout que as demais páginas.
+Página responsável por informar o usuário sobre as uvas que fazem seu vinho, com uma tabela das principais uvas e uma lista de seus tipos e sabores. Segue o mesmo padrão de layout que as demais páginas.
 
 sobre.html:
 Página resposável por falar sobre a Vinheria Agnello. Segue o mesmo padrão de layout que as demais páginas.

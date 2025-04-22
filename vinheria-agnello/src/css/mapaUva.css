@@ -24,9 +24,9 @@
     background-color: #864655;
     border-radius: 25px;
     height: auto;
-    border-collapse: collapse;
     width: 42%; 
     margin: auto;
+
   }
   table{
     padding: 10px;
@@ -55,4 +55,42 @@
  }
   
  
+
+.container {
+  max-width: 900px;
+  margin: 50px auto 10px auto;
+  background-color: #fff;
+  border: 2px solid #d9a75f;
+  border-top: 60px ; 
+  border-radius: 10px;
+  padding: 4rem 2rem;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+h1 {
+  text-align: center;
+  color: #8b2e28;
+  margin-bottom: 30px;
+}
+
+.vinho-section {
+  margin-bottom: 30px;
+}
+
+.vinho-section h2 {
+  color: #d9a75f;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 5px;
+}
+
+ul {
+  list-style-type: square;
+  padding-left: 20px;
+}
+
+ul li {
+  margin-bottom: 10px;
+  line-height: 1.6;
+}
+
   
