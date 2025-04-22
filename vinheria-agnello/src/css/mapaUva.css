@@ -1,0 +1,58 @@
+/* css Mapa da Uva */
+
+.landing-page-uva {
+    position: relative;
+    width: 100%;
+    height: 100%;
+  }
+  
+  .img-fundo{
+    width: 100%;
+    filter: blur(15px);
+    display: block;
+  }
+  
+  .img-mapaUva{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 45%;
+    transform: translate(-50%, -45%);
+  }
+  
+  .form-uva {
+    background-color: #864655;
+    border-radius: 25px;
+    height: auto;
+    border-collapse: collapse;
+    width: 42%; 
+    margin: auto;
+  }
+  table{
+    padding: 10px;
+    margin: 10px auto;
+    
+  }
+  th{
+    color: white;
+    font-size: 20px;
+    border: 1px solid #ccc;
+    padding: 25px;
+    text-align: center;
+  }
+   td {
+    
+    color: white;
+    font-size: 15px;
+    border: 1px solid #ccc;
+    padding: 25px;
+    text-align: left;
+  }
+  
+ .img-uva{
+    width: 100%;
+    height: 100%;
+ }
+  
+ 
+  
