@@ -9,6 +9,7 @@
 
 .body {
   background-color: #41232a;
+  overflow-x: hidden;
 }
 
 .header {
@@ -35,7 +36,7 @@
 
 .home {
   font-size: 4.8rem;
-  padding-right: 130rem;
+  padding-right: 100rem;
 }
 
 .landing-page {
@@ -87,7 +88,7 @@
 
 .container-video {
   position: absolute;
-  top: 134%;
+  top: 145%;
   left: 45%;
   text-align: center;
 }
@@ -195,9 +196,8 @@
   background-color: #fff;
   padding: 30px;
   border-radius: 10px;
-
 }
-#titulo-resumo-1{
+#titulo-resumo-1 {
   color: #41232a;
   text-align: center;
 }
@@ -216,20 +216,20 @@
   background-color: #2b1d0e;
   color: #fff;
   padding: 30px 0 10px 0;
-  font-family: 'Georgia', serif;
+  font-family: "Georgia", serif;
   font-size: 12px;
   width: 100%;
 }
 
 .footer-container {
-  width: 1000px; 
-  margin: 0 auto; 
+  width: 1000px;
+  margin: 0 auto;
   display: flex;
   justify-content: space-between;
 }
 
 .footer-section {
-  width: 50%; 
+  width: 50%;
 }
 
 .footer-section h3,
