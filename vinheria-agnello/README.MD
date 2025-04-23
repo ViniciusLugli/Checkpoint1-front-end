@@ -26,4 +26,4 @@ Integrantes:
 - Vinícius Lugli
 
 Link para o site:
-https://viniciuslugli.github.io/Checkpoint1-front-end/vinheria-agnello/src/pages/contato.html
+https://viniciuslugli.github.io/Checkpoint1-front-end/vinheria-agnello/index.html
